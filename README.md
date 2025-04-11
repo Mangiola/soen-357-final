@@ -1,10 +1,10 @@
 ![logo](static/images/logo.png)
 
-This is a web application front-end for users to manage their diet. It is written using [SvelteKit](https://svelte.dev/).
+This is a web application front-end for users to manage their diet. Access the published version [here](https://mangiola.github.io/).
 
 ![logo](static/images/screenshot.png)
 
-**Note:** As this is just the front-end, all data (recipes, user stats, etc.) are hardcoded mockups.
+This project was written with the [SvelteKit](https://svelte.dev/) Javascript framework. As this is just the front-end, all data (recipes, user stats, etc.) are hardcoded mockups.
 
 ## Installing and Running
 
